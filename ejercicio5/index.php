@@ -14,3 +14,17 @@
 * En la página "modificar.php" presentar el formulario que permita modificar la información del alumno seleccionado.
 *
 */
+
+?>
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Alumnos</title>
+</head>
+<body>
+	<h2>Alumnos</h2>
+	<a href="nuevo.php">Ingresar un nuevo alumno</a><br><br>
+	<a href="lista.php">Ver lista de alumnos</a>
+</body>
+</html>
